@@ -1,0 +1,28 @@
+{
+  "name": "rest-api-theme",
+  "version": "0.0.1",
+  "description": "A simple WordPress theme using the WP REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rase-/rest-api-theme.git"
+  },
+  "keywords": [
+    "WP",
+    "REST",
+    "API"
+  ],
+  "author": "rase-",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rase-/rest-api-theme/issues"
+  },
+  "homepage": "https://github.com/rase-/rest-api-theme",
+  "dependencies": {
+    "browserify": "11.2.0",
+    "react": "0.14.0"
+  }
+}
