@@ -23,6 +23,9 @@
   "homepage": "https://github.com/rase-/rest-api-theme",
   "dependencies": {
     "browserify": "11.2.0",
-    "react": "0.14.0"
+    "page": "1.6.3",
+    "react": "0.14.0",
+    "reactify": "1.1.1",
+    "superagent": "1.4.0"
   }
 }
